@@ -1,4 +1,4 @@
-# 🌸 Protocol Pink – Character Sheet
+# Protocol Pink – Character Sheet
 
 ---
 
