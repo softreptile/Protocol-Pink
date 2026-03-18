@@ -38,7 +38,7 @@ She excels at controlling the battlefield, forcing enemies to focus on her while
 
 ---
 
-## Unique Ability – Impact Reversal
+## Unique Ability – Impact Conversion
 
 Elena’s systems convert incoming force into usable Pink Morphin’ Grid energy. Damage absorbed through her armor is redirected into her Lumen Blade or released as short-range bursts, allowing her to immediately retaliate with amplified force.
 
