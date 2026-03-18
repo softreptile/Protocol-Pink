@@ -49,10 +49,10 @@ This ability also allows limited tactical augmentation of Proto-Zord systems, gi
 ## Proto-Gear
 
 **Holoforce Armor**  
-Layered hardlight armor that grows stronger and more stable under pressure but risks instability if overextended.
+Layered Grid Energy armor that grows stronger and more stable under pressure but risks instability if overextended.
 
 **Lumen Blade**  
-Hardlight sword powered by absorbed damage; blade intensity and instability scale with energy intake.
+Grid Energy sword powered by absorbed damage; blade intensity and instability scale with energy intake.
 
 **Overload Feedback Systems**  
 Allows temporary surge in defensive/offensive capability at the cost of armor fracture and personal vulnerability.
