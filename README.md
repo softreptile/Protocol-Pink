@@ -15,7 +15,7 @@
 ## Background
 Elena Marisol Navarro has spent her life obsessed with building and improving machines. Drawn equally to arts, crafts, and robotics, she developed a reputation for unconventional but effective engineering solutions.
 
-While working under Doctor Marsh on the early development of the Protocol Rangers’ Proto-Zords and defensive systems, Elena’s work became pivotal—but not without cost. During testing, a defensive system she helped design failed to perform fast enough, resulting in injury to a pilot. The incident left Elena with a deep-seated sense of responsibility and a refusal to leave safety to systems she can’t control herself.
+While working under Doctor Marsh on the early development of the Protocol Rangers’ Proto-Zords and defensive systems, Elena’s work became pivotal, but not without cost. During testing, a defensive system she helped design failed to perform fast enough, resulting in injury to a pilot. The incident left Elena with a deep-seated sense of responsibility and a refusal to leave safety to systems she can’t control herself.
 
 Since then, she has remained involved behind the scenes, monitoring and subtly improving the team’s gear, often without their knowledge.
 
