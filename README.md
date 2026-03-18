@@ -38,55 +38,59 @@ She excels at controlling the battlefield, forcing enemies to focus on her while
 
 ---
 
-## Unique Ability
+## Unique Ability – Impact Reversal
 
-Elena can generate and manipulate hardlight constructs directly from her Proto-Zord and armor systems. Damage absorbed through her armor is converted into energy for her Lumen Blade or short-range area-of-effect releases, effectively turning incoming attacks into offensive force.
+Elena’s systems convert incoming force into usable Pink Morphin’ Grid energy. Damage absorbed through her armor is redirected into her Lumen Blade or released as short-range bursts, allowing her to immediately retaliate with amplified force.
 
-This ability also allows limited tactical augmentation of Proto-Zord systems, giving her an unusual level of synergy with her team’s technology. All of her powers are channeled through **Pink Morphin’ Grid energy** rather than conventional light energy.
+The more pressure she takes, the stronger her output becomes. This makes her exceptionally effective at drawing enemy attention and punishing aggression, but prolonged exposure risks overwhelming her systems.
 
 ---
 
 ## Proto-Gear
 
 **Holoforce Armor**  
-Layered Grid Energy armor that grows stronger and more stable under pressure but risks instability if overextended.
+Layered hardlight armor that grows stronger and more stable under pressure but risks instability if overextended.
 
 **Lumen Blade**  
-Grid Energy sword powered by absorbed damage; blade intensity and instability scale with energy intake.
+Hardlight sword powered by absorbed damage. Blade intensity and instability scale with energy intake.
 
 **Overload Feedback Systems**  
-Allows temporary surge in defensive/offensive capability at the cost of armor fracture and personal vulnerability.
+Allows temporary surge in defensive and offensive capability at the cost of armor fracture and personal vulnerability.
 
 ---
 
 ## Zord – Riot Vanguard Proto-Zord
 
 **Design Concept:**  
-A high-speed, tactical armored vehicle inspired by SPD / police vehicles. Modular, interlocking plating shifts dynamically, allowing for both mobility and frontline defense. Riot Vanguard is flashy and commanding, drawing enemy attention just like Elena does in battle.
+A high-speed, tactical armored vehicle inspired by SPD-style law enforcement units. Modular, interlocking plating shifts dynamically to balance mobility and defense. Riot Vanguard is built to command attention and control the battlefield.
 
 **Function:**  
-- Frontline tank, draws fire and absorbs damage  
-- Deployable hardlight shields for team protection  
-- Modular plating adapts to incoming attacks and energy absorption  
-- Fully powered by Pink Morphin’ Grid energy  
-- Can integrate with Megazord as defensive modules while remaining semi-autonomous
+- Frontline tank that draws and absorbs enemy fire  
+- Deployable hardlight shielding for allied protection  
+- Adaptive modular plating that responds to incoming damage  
+- Powered by Pink Morphin’ Grid energy  
+- Capable of Megazord integration as defensive modules while remaining semi-autonomous
 
 **Aesthetic Notes:**  
-- Sleek, angular armored car design  
-- Visible Grid energy conduits and pulsing seams  
-- Tactical lights, vents, and siren-inspired accents emphasize law enforcement theme  
-- Fast, flashy, and mobile, embodying Elena’s personality
+- Sleek, angular armored vehicle design  
+- Visible Grid energy conduits with pulsing pink seams  
+- Tactical lighting and siren-inspired accents reinforce its law enforcement identity  
+- Fast, aggressive movement profile that mirrors Elena’s presence in combat
 
 ---
 
 ## Motivations
 
-Elena is driven by responsibility and a need to control outcomes. Her past failure with Proto-Zord testing taught her that knowledge alone is not enough. Sometimes she has to be the failsafe herself. She continues to improve technology behind the scenes to keep her teammates safe and ensure that failures do not hurt anyone else.
+Elena is driven by responsibility and a need to control outcomes. Her past failure during Proto-Zord testing taught her that knowledge alone is not enough. Someone has to take the hit when things go wrong.
+
+She continues to refine and improve the team’s technology, determined to ensure that no one else gets hurt because something failed when it mattered most.
 
 ---
 
 ## Personal Flaws
 
 **Overextends herself:** Elena often absorbs more damage than is safe, risking overload or instability.  
-**Distrusts others’ judgment:** She struggles to let teammates take the lead in critical situations, even when help is available.  
-**Deflects emotionally:** Humor and sarcasm hide her inner stress and guilt, which can make her seem aloof or unapproachable.
+
+**Distrusts others’ judgment:** She struggles to let teammates take control in critical situations, even when support is available.  
+
+**Deflects emotionally:** Humor and sarcasm hide her stress and guilt, which can make her seem distant or difficult to approach.
