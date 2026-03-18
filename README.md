@@ -24,7 +24,7 @@ Since then, she has remained involved behind the scenes, monitoring and subtly i
 ## Personality
 Elena is chaotic, fast-talking, and playful on the surface, but deeply guarded and stubborn underneath. She jokes and deflects to keep people from worrying, especially in dangerous situations.
 
-Under pressure, her tone sharpens, and she becomes intensely focused, often taking control of situations herself. She dislikes relying on others and struggles when teammates attempt to step in. Though she hides her vulnerability, her loyalty to her team is absolute—she simply shows it through action rather than words.
+Under pressure, her tone sharpens, and she becomes intensely focused, often taking control of situations herself. She dislikes relying on others and struggles when teammates attempt to step in. Though she hides her vulnerability, her loyalty to her team is absolute, she simply shows it through action rather than words.
 
 **Core Trait:**  
 > If something is going to go wrong, she’d rather it happen to her than anyone else.
