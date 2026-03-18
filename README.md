@@ -68,7 +68,7 @@ This ability also allows limited tactical augmentation of Proto-Zord systems, gi
 ---
 
 ## Motivations
-Elena is driven by responsibility and a need to control outcomes. Her past failure with Proto-Zord testing taught her that knowledge alone isn’t enough—sometimes you have to be the failsafe yourself. She continues to improve technology behind the scenes, motivated by the desire to keep her teammates safe and ensure that failures don’t hurt anyone else.
+Elena is driven by responsibility and a need to control outcomes. Her past failure with Proto-Zord testing taught her that knowledge alone isn’t enough, sometimes you have to be the failsafe yourself. She continues to improve technology behind the scenes, motivated by the desire to keep her teammates safe and ensure that failures don’t hurt anyone else.
 
 ---
 
