@@ -32,7 +32,7 @@ If something is going to go wrong, she would rather it happen to her than anyone
 
 ## Ranger Role
 
-As the Pink Ranger, Elena acts as the frontline tank and aggro anchor, absorbing incoming damage and protecting her teammates. Her hardlight armor provides a semi-unstable defensive shield while her Lumen Blade channels stored energy from absorbed hits into high-impact offensive strikes.
+As the Pink Ranger, Elena acts as the frontline tank and aggro anchor, absorbing incoming damage and protecting her teammates. Her hardlight armor provides a semi-unstable defensive shield while her Proto-Saber channels stored energy from absorbed hits into high-impact offensive strikes.
 
 She excels at controlling the battlefield, forcing enemies to focus on her while giving her allies space to act. Her engineering background allows her to adapt her armor and weapons in real-time, making her an unpredictable and versatile fighter.
 
